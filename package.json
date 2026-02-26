@@ -1,10 +1,10 @@
 {
-  "name": "nextcreatearch",
+  "name": "nextcleanarch",
   "version": "1.1.0",
   "description": "CLI para gerar projetos Next.js com Clean Architecture",
   "main": "dist/index.js",
   "bin": {
-    "nextcreatearch": "./dist/index.js"
+    "nextcleanarch": "./dist/index.js"
   },
   "scripts": {
     "build": "tsc",
